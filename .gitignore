@@ -1,0 +1,30 @@
+### IntelliJ IDEA ###
+/target/
+/.idea/
+*.iml
+*.iws
+*.ipr
+*.class
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### Maven ###
+!.mvn/wrapper/maven-wrapper.jar
+/mvn/
+mvnw.cmd
+mvnw
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/

@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: not-cloud-rest-app
+server:
+  port: 8189
+  servlet:
+    context-path: /rest
